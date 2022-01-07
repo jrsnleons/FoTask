@@ -11,7 +11,7 @@ body{
 
 /* TO DO AREEA */
 .todo-wrapper{
-    margin: 120px auto;
+    /* margin: 120px 2rem auto auto; */
     max-width: 400px;
     width: 100%;
     background: #FFF;
@@ -139,7 +139,7 @@ header{
 
 
 .timer-wrapper{
-    margin: 120px auto;
+    /* margin: 120px auto auto 2rem; */
     max-width: 400px;
     width: 100%;
     background: #FFF;
@@ -172,6 +172,7 @@ header{
     border: none;
     font-size: 18px;
     transition: 0.5s ease-in-out;
+    border-radius: 5px;
 }
 
 form{
@@ -188,7 +189,15 @@ form button{
     margin: 5px 0;
     color: white;
     border: none;
+    background-color: #8E49E8 !important;
+    outline-color: #8E49E8 !important;
+    border-color: #8E49E8 !important;
 }
+form button:focus{
+    background-color: rgb(250, 80, 88);
+    box-shadow: 0 0 0 .2rem #be9ee9 !important;
+}
+
 
 .clock{
     padding: 3px;
@@ -238,6 +247,16 @@ form button{
 .p-0{
     margin: 0;
 }
+
+.btn-settings{
+    background-color: #8E49E8 !important;
+    outline-color: #8E49E8 !important;
+    
+}
+.fa-cog{
+    color: white;
+}
+
 
 
 
