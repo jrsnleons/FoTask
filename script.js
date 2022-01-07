@@ -6,7 +6,6 @@ const addBtn = document.querySelector(".inputField button");
 const todoList = document.querySelector(".todoList");
 const deleteAllBtn = document.querySelector(".todo-footer button");
 
-
 inputBox.onkeyup = ()=>{
     let userData = inputBox.value; //getting user entered value
     if(userData.trim() != 0){ //if user value is not only space
@@ -199,9 +198,6 @@ pauseBtn.addEventListener("click", () => {
     }
 });
 
-
-
-
 $(document).ready(function(){
     var status = 0;
     $("#hiddenForm").hide();
@@ -214,8 +210,6 @@ $(document).ready(function(){
             status = 0;
         }
     });
-
-
 
     focusPH.value = localStorage.focusTime;
     breakPH.value = localStorage.breakTime;
