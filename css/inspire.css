@@ -1,0 +1,52 @@
+.container{
+    margin: 5rem;
+}
+
+
+.card{
+    background-color: white;
+    border-radius: 5px;
+    margin: 3rem 15rem;
+    padding: 2rem;
+    padding-bottom: 1rem;
+    width: auto;
+}
+
+.fa-quote-left{
+    font-size: 3rem;
+}
+
+.the-quote{
+    margin: 2rem;
+    padding: 2rem;
+}
+
+.quote{
+    font-size: 2rem;
+}
+
+.author{
+    font-style: italic;
+    text-align: right;
+}
+
+.footer-quote{
+    align-content: right;
+}
+
+.fa-quote-right{
+    text-align: right;
+}
+
+.quote-title{
+    font-size: 3rem;
+    text-align: right;
+}
+
+
+@media only screen and (max-width: 1024px) {
+    .card{
+        margin: 5rem 10rem;
+    }
+}
+
