@@ -41,6 +41,8 @@
 .quote-title{
     font-size: 3rem;
     text-align: right;
+    font-weight: bold;
+    padding-right: 2rem;
 }
 
 
