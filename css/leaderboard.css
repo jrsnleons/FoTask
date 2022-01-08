@@ -1,0 +1,67 @@
+
+.leader-wrapper{
+    align-items: center;
+}
+
+.leader-card{
+    background-color: white;
+    border-radius: 5px;
+    margin: 3rem 15rem;
+    padding: 2rem;
+    width: auto;
+}
+
+.title-head{
+    align-items: center;
+    padding: 1rem;
+}
+
+.leader-title{
+    text-align: center;
+}
+
+
+
+
+.fa-user-circle{
+    font-size: 2rem;
+}
+/*---*/
+
+.placement{
+    width: 10%;
+}
+
+.pep-profile{
+    width: 10%;
+}
+
+.name{
+    width: 50%;
+}
+
+.score{
+    font-weight: bold !important;
+    text-align: right;
+    width: 30%;
+}
+
+
+.table{
+    position: flex;
+    width: auto;
+}
+
+.table-hover{
+    margin: none !important;
+}
+
+tbody, td, tfoot, th, thead, tr {
+    border-color: inherit;
+    border-style: none !important;
+    border-width: 0;
+}
+
+@media screen  {
+    
+}
