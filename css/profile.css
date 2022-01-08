@@ -1,0 +1,46 @@
+.profile-card{
+    background-color: white;
+    border-radius: 5px;
+    margin: 3rem 15rem;
+    padding: 2rem;
+    padding-bottom: 1rem;
+    width: auto;
+}
+
+.profile-pic{
+    text-align: center;
+}
+
+.fa-user-circle{
+    font-size: 10rem;
+    text-align: center;
+}
+
+.name{
+    text-align: center;
+}
+.userName{
+    padding-top: 1rem;
+}
+
+.hr1{
+    width: 50%;
+    margin: auto;
+}
+
+.bottom{
+    padding-top: 5rem;
+}
+
+.hr2{
+    width: 50%;
+    margin: auto;
+}
+
+.pri-text{
+    text-align: center;
+}
+
+.subtext{
+    text-align: center;
+}
