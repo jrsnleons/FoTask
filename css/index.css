@@ -1,0 +1,62 @@
+.container{
+    margin: 5rem;
+}
+
+/* .start-area{
+    align-content: center;
+    text-align: center;
+} */
+
+.btn-light{
+    min-width: 5rem !important;
+    
+}
+
+.info-area{
+    margin: auto;
+    margin-bottom: 10rem;
+    min-width: 10rem;
+}
+
+.info-head{
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 2rem;
+}
+
+.info-para{
+    color: white;
+    padding: 0rem 5rem;
+}
+
+.developer-area{
+    margin: auto;
+    margin-top: 3rem;
+    min-width: 10rem;
+    padding: 0rem 5rem;
+}
+
+.circle-container{
+    position: relative;
+    align-content: center;
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+.developer-img{
+    width: 200px;
+    height: auto;
+    border-radius:50%;
+    align-self: center;
+}
+
+.deve-para{
+    color: white;
+    vertical-align: center;
+}
+
+.develop-para{
+    vertical-align: middle;
+    
+}
