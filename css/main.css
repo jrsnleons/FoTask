@@ -7,6 +7,7 @@
 
 body{
     height: 100vh;
+    /* background-image: linear-gradient(color1,  color2); */
     background: rgb(36,59,85);
     background: linear-gradient(180deg, rgba(36,59,85,1) 0%, rgba(20,30,48,1) 100%);
 }
